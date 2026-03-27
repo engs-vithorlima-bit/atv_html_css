@@ -1,0 +1,22 @@
+body {
+    background-color:rgb(125, 25, 172)
+}
+h1 {
+    text-align: center;
+    color:black
+}
+body {
+    font-family: Arial, sans-serif;
+}
+button {
+    background-color: blueviolet;
+    color:aliceblue;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+}
+button:hover {
+    background-color: indigo;
+}
