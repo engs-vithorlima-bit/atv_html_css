@@ -1,9 +1,9 @@
 body {
-    background-color:rgb(73, 63, 78)
+    background-color:rgb(91, 131, 168)
 }
 h1 {
     text-align: center;
-    color:rgba(195, 40, 209, 0.521)
+    color:rgba(178, 180, 44, 0.521)
 }
 body {
     font-family: Arial, sans-serif;
@@ -12,11 +12,19 @@ button {
     background-color: blueviolet;
     color:aliceblue;
     border: none;
-    padding: 10px 20px;36
+    padding: 10px 20px;
     cursor: pointer;
     border-radius: 5px;
     font-size: 16px;
 }
 button:hover {
     background-color: indigo;
-}6
+}
+img[src="image-1.png"] {
+    width: 300px;
+}img {
+    display: block;
+    margin: 20px auto;
+    border-radius: 50%;
+    border: 3px solid #333;
+}
